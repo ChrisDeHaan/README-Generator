@@ -6,6 +6,7 @@ function generateMarkdown(data) {
 
   ## Table of Contents
   - [Installation](#installation)
+  - [License](#license)
   - [Usage](#usage)
   - [Contributers](#contributers)
   - [Tests](#tests)
@@ -15,7 +16,7 @@ function generateMarkdown(data) {
   ${data.installation}
 
   ## License
-  ${data.license === 'None' ? 'No License.' : `<a href='https://choosealicense.com/licenses/${data.license}/' target='_blank'><img src='https://img.shields.io/badge/License-${data.license.toLowerCase()}-blue'></a>`}
+  ${data.license === 'None' ? 'No License.' : `<a href='https://choosealicense.com/licenses/${data.license.toLowerCase()}/' target='_blank'><img src='https://img.shields.io/badge/License-${data.license}-blue'></a>`}
 
   ## Usage
   ${data.usage}

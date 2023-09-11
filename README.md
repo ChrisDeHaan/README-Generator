@@ -5,6 +5,7 @@
 
   ## Table of Contents
   - [Installation](#installation)
+  - [License](#license)
   - [Usage](#usage)
   - [Contributers](#contributers)
   - [Tests](#tests)
@@ -14,10 +15,10 @@
   Clone the repo through Github.
 
   ## License
-  <a href='https://choosealicense.com/licenses/MIT/' target='_blank'><img src='https://img.shields.io/badge/License-mit-blue'></a>
-  
+  <a href='https://choosealicense.com/licenses/mit/' target='_blank'><img src='https://img.shields.io/badge/License-MIT-blue'></a>
+
   ## Usage
-  The intended usage for this node project is to create README files.
+  The intended usage for the node project is to create README files.
 
   ## Contributors
   None

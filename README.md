@@ -18,7 +18,7 @@
   <a href='https://choosealicense.com/licenses/mit/' target='_blank'><img src='https://img.shields.io/badge/License-MIT-blue'></a>
 
   ## Usage
-  The intended usage for the node project is to create README files.
+  The intended usage for this node project is to create README files.
 
   ## Contributors
   None

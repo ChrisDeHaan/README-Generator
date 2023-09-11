@@ -7,21 +7,25 @@ const questions = [
         type: 'input',
         name: 'title',
         message: 'What is the title of your project?',
+        validate: input => input ? true : console.log('---Please enter a title.---')
     },
     {
         type: 'input',
         name: 'description',
-        message: 'What is the description?'
+        message: 'What is the description?',
+        validate: input => input ? true : console.log('---Please enter a description.---')
     },
     {
         type: 'input',
         name: 'installation',
-        message: 'Installation instructions?'
+        message: 'Installation instructions?',
+        validate: input => input ? true : console.log('---Please enter installation instructions.---')
     },
     {
         type: 'input',
         name: 'usage',
-        message: 'What is the intended usage of this project?'
+        message: 'What is the intended usage of this project?',
+        validate: input => input ? true : console.log('---Please enter a usage for this project.---')
     },
     {
         type: 'list',
@@ -33,22 +37,26 @@ const questions = [
     {
         type: 'input',
         name: 'contributing',
-        message: 'Any contributors?'
+        message: 'Any contributors?',
+        validate: input => input ? true : console.log('---Please enter contributors or "None."---')
     },
     {
         type: 'input',
         name: 'tests',
-        message: 'Test instructions?'
+        message: 'Test instructions?',
+        validate: input => input ? true : console.log('---Please enter tests.---')
     },
     {
         type: 'input',
         name: 'github',
-        message: 'What is your Github username?'
+        message: 'What is your GitHub username?',
+        validate: input => input ? true : console.log('---Please enter a GitHub username.---')
     },
     {
         type: 'input',
         name: 'email',
-        message: 'What is your email address?'
+        message: 'What is your email address?',
+        validate: input => input ? true : console.log('---Please enter an email address.---')
     },
 ]
 

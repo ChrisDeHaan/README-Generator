@@ -14,6 +14,8 @@
   ## Installation
   Clone the repo through Github.
 
+  ![](./utils/src/READMEflow.mp4)
+
   ## License
   <a href='https://choosealicense.com/licenses/mit/' target='_blank'><img src='https://img.shields.io/badge/License-MIT-blue'></a>
 
@@ -21,7 +23,7 @@
   The intended usage for this node project is to create README files.
 
   ## Contributors
-  None
+  None.
   
   ## Tests
   example text

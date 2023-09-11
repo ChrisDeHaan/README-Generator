@@ -4,12 +4,12 @@
   This project is designed to make creating a quality README easier and quicker.
 
   ## Table of Contents
-  - [Installation](#installation)
-  - [License](#license)
-  - [Usage](#usage)
-  - [Contributers](#contributers)
-  - [Tests](#tests)
-  - [Questions](#questions)
+  - [Installation](#Installation)
+  - [License](#License)
+  - [Usage](#Usage)
+  - [Contributers](#Contributers)
+  - [Tests](#Tests)
+  - [Questions](#Questions)
 
   ## Installation
   Clone the repo through Github.

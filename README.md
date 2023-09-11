@@ -1,12 +1,30 @@
+# README Generator
 
-  # This is a title
   ## Description
-  this is a description
+  This project is designed to make creating a quality README easier and quicker.
+
+  ## Table of Contents
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributers](#contributers)
+  - [Tests](#tests)
+  - [Questions](#questions)
+
   ## Installation
-  this is installation
+  Clone the repo through Github.
+
+  ## License
+  <a href='https://choosealicense.com/licenses/MIT/' target='_blank'><img src='https://img.shields.io/badge/License-mit-blue'></a>
+  
   ## Usage
-  as a test
+  The intended usage for this node project is to create README files.
+
   ## Contributors
-  no contributors
+  None
+  
   ## Tests
-  these are instructions
+  example text
+
+  ## Questions
+  - https://github.com/ChrisDeHaan
+  - exampleaddress@example.com

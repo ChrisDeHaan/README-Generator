@@ -12,7 +12,7 @@
   - [Questions](#Questions)
 
   ## Installation
-  Clone the repo through Github. Use the following video as an example of the app flow.
+  Clone the repo through Github. Use the following video as an example of how to intialize the app and what the general flow looks like.
 
 https://github.com/ChrisDeHaan/README-Generator/assets/135929135/c00a0147-df3f-43c8-bd61-75773ddf5afd
 
